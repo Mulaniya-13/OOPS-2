@@ -1,4 +1,4 @@
-Object-Oriented Programming in C++ – Part 2 🚀
+uObject-Oriented Programming in C++ – Part 2 🚀
 
 This repository contains my practice and learning journey with Object-Oriented Programming (OOP) in C++.
 
@@ -58,7 +58,7 @@ This repository is a continuation of my previous OOP practice repository.
 
 Some concepts have already been covered there, while this repository contains the concepts I am learning and practicing next.
 
-Previous Repository: "OOP – Part 1" (#)
+Previous Repository: "OOP – Part 1"
 
 🛠️ Language Used
 
