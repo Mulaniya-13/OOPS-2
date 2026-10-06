@@ -66,7 +66,7 @@ Previous Repository: "OOP – Part 1"
 
 📈 Learning Progress
 
-This repository is part of my ongoing C++ and DSA learning journey. More OOP concepts and practice programs will be added as I continue learning.
+This repository is part of my ongoing C++ and DSA learning journey. More OOP concepts and practice programs will be added as I continue learning..
 
 ---
 
